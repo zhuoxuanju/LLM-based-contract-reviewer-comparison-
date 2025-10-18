@@ -1,0 +1,10 @@
+*__pycache__*
+testfiles
+vectorstores
+*__pycache__
+files
+flagged
+log/*
+*.log
+_*
+models
